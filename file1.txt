@@ -4,3 +4,5 @@ tis is second line of my new file
 
 this is my 3rd line of new file
 
+fourth line of my new file
+ 
