@@ -1,5 +1,6 @@
 this firt line in new file
 
+<<<<<<< HEAD
 this is second line of my new file
 
 this is my 3rd line of new file
@@ -9,3 +10,8 @@ fourth line of my new file
 this is the 5th line 
 
 this is the 6th line of my new file
+=======
+first line of new branch
+
+tis is second line of my new file
+>>>>>>> branch1ofcommit2
